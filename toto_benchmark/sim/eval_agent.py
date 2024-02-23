@@ -117,7 +117,7 @@ def load_agent_from_args(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-n", "--team_name", type=str, help='Your team name', default="IIT_Kharagpur")
-    parser.add_argument("-a", "--agent_path", type=str, help='Path to your agent', default="/data/sabarish/CelebBasis_photoverse/infer_images/ti/toto/toto_benchmark_subm/toto_benchmark/outputs/2023-11-27/06-36-27")
+    parser.add_argument("-a", "--agent_path", type=str, help='Path to your agent')
     args = parser.parse_args()
 
     # load_agent_from_args() is an example that loads a BC agent from train.py
