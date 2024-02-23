@@ -1,8 +1,9 @@
 # DiffClone: Enhanced Behaviour Cloning in Robotics with Diffusion-Driven Policy Learning
 Sabariswaran Mani, Abhranil Chandra, Sreyas Venkataraman, Adyan Rizvi, Yash Sirvi, Soumojit Bhattacharya, Aritra Hazra
-### [Project Page](https://sites.google.com/view/iitkgp-nips23toto/home) | [Paper]([https://openreview.net/pdf?id=7r6kDq0mK_](https://arxiv.org/abs/2401.09243))
 
-## Winning Solution at TOTO Competition, NeurIPS 2023
+# Winning Solution at TOTO Competition, NeurIPS 2023
+
+### [Project Page](https://sites.google.com/view/iitkgp-nips23toto/home) | [Paper](https://arxiv.org/abs/2401.09243)
 
 This is the official PyTorch implementation of "DiffClone: Enhanced Behaviour Cloning in Robotics with Diffusion-Driven Policy Learning", Top Leaderboard submmission at [Train Offline Test Online Workshop Competition(TOTO)](https://toto-benchmark.org/) at NeurIPS 2023. This repo is built on the competition kit at [repo](https://github.com/AGI-Labs/toto_benchmark).
 
