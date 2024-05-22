@@ -1,5 +1,5 @@
 # DiffClone: Enhanced Behaviour Cloning in Robotics with Diffusion-Driven Policy Learning
-Sabariswaran Mani, Abhranil Chandra, Sreyas Venkataraman, Adyan Rizvi, Yash Sirvi, Soumojit Bhattacharya, Aritra Hazra
+Sabariswaran Mani, Sreyas Venkataraman, Abhranil Chandra, Adyan Rizvi, Yash Sirvi, Soumojit Bhattacharya, Aritra Hazra
 
 ### **Winning** Solution at TOTO Competition, NeurIPS 2023
 
